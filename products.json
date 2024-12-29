@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Milk", "price": 10, "category": "Dairy", "image": "/src/assets/milk.jpg" },
+  { "id": 2, "name": "Eggs", "price": 15, "category": "Poultry", "image": "/src/assets/eggs.jpg" },
+  { "id": 3, "name": "Cheese", "price": 20, "category": "Dairy", "image": "/src/assets/cheese.jpg" },
+  { "id": 4, "name": "Chicken Breast", "price": 25, "category": "Meat", "image": "/src/assets/chicken-breast.jpg" },
+  { "id": 5, "name": "Apples", "price": 30, "category": "Fruits", "image": "/src/assets/apples.jpg" },
+  { "id": 6, "name": "Beef Steak", "price": 35, "category": "Meat", "image": "/src/assets/beef-steak.jpg" },
+  { "id": 7, "name": "Butter", "price": 40, "category": "Dairy", "image": "/src/assets/butter.jpg" },
+  { "id": 8, "name": "Bananas", "price": 45, "category": "Fruits", "image": "/src/assets/bananas.jpg" },
+  { "id": 9, "name": "Fish Fillet", "price": 50, "category": "Seafood", "image": "/src/assets/fish-fillet.jpg" },
+  { "id": 10, "name": "Yogurt", "price": 55, "category": "Dairy", "image": "/src/assets/yogurt.jpg" },
+  { "id": 11, "name": "Oranges", "price": 45, "category": "Fruits", "image": "/src/assets/oranges.jpg" },
+  { "id": 12, "name": "Shrimp", "price": 50, "category": "Seafood", "image": "/src/assets/shrimp.jpg" }
+]
